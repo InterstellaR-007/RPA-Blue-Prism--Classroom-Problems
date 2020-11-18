@@ -1,0 +1,18 @@
+﻿<process name="email program" version="1.0" bpversion="6.9.0.26970" narrative="&#xD;&#xA;&#xD;&#xA;" byrefcollection="true" preferredid="5f1a8fcc-b33c-48ba-956b-4e97eb590fa8">
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <stage stageid="69b5e2f8-c2d4-4137-bf7b-ddb430ca67b1" name="Start" type="Start">
+    <display x="15" y="-105" />
+  </stage>
+  <stage stageid="1c400b0e-b425-4735-9798-7d04071656cc" name="End" type="End">
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="8b4247dc-8c0c-4158-a8b5-9021d30e9463" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+</process>
